@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Lab2Final:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lab2Final_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Lab2Final/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Lab2Final" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
